@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://rknightuk.micro.blog/2022/09/08/we-have-another.html",
+				
+				"content_html": "<p>We have another wall 🙌</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We have another wall 🙌 \n\n<img src=\"uploads/2022/b7d96ed706.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-09-08T19:14:44+01:00",
+				"url": "https://toot.rknight.me/2022/09/08/we-have-another.html",
+				"tags": ["Kitchen 2022"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/09/08/there-hasnt-been.html",
+				
+				"content_html": "<p>There hasn&rsquo;t been much in the way of visible progress but the lightning is now in, electrics have been run, and the insulation and flooring is going down right now.</p>\n<p>We&rsquo;re only making microwave meals now because the oven was removed on Monday.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "There hasn't been much in the way of visible progress but the lightning is now in, electrics have been run, and the insulation and flooring is going down right now. \r\n\r\nWe're only making microwave meals now because the oven was removed on Monday.\r\n\r\n<img src=\"uploads/2022/32203aadd8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-09-08T11:11:50+01:00",
+				"url": "https://toot.rknight.me/2022/09/08/there-hasnt-been.html",
+				"tags": ["Kitchen 2022"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/09/03/were-having-our.html",
+				
+				"content_html": "<p>We’re having our kitchen extended into our garage. The progress in the first four days is really impressive. And as a bonus none of the builders drink tea or coffee so I don’t have to make anything for them.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "We’re having our kitchen extended into our garage. The progress in the first four days is really impressive. And as a bonus none of the builders drink tea or coffee so I don’t have to make anything for them. \n\n<img src=\"uploads/2022/9184a950c9.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/b5e0760251.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/bb021a2d0e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-09-03T09:15:51+01:00",
+				"url": "https://toot.rknight.me/2022/09/03/were-having-our.html",
+				"tags": ["Kitchen 2022"]
+			},
+			{
 				"id": "http://rknightuk.micro.blog/2022/09/02/finished-both-seasons.html",
 				
 				"content_html": "<p>Finished both seasons of <a href=\"https://en.wikipedia.org/wiki/The_Wilds_(TV_series)\">The Wilds</a> last night, I really enjoyed it. I also found out it&rsquo;s been cancelled when I had a few episodes left 😞</p>\n",
@@ -28,7 +55,7 @@
 				"id": "http://rknightuk.micro.blog/2022/08/26/good-day-today.html",
 				
 				"content_html": "<p>Good day today: saw Hamilton and <a href=\"https://www.sixthemusical.com\">Six</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Good day today: saw Hamilton and [Six](https://www.sixthemusical.com)\n\n<img src=\"uploads/2022/34e3898790.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/a3f0ee83c7.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/93b4a4e063.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/c409a987ed.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Good day today: saw Hamilton and [Six](https://www.sixthemusical.com)\n\n<img src=\"https://toot.rknight.me/uploads/2022/34e3898790.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://toot.rknight.me/uploads/2022/a3f0ee83c7.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://toot.rknight.me/uploads/2022/93b4a4e063.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://toot.rknight.me/uploads/2022/c409a987ed.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-26T01:14:23+01:00",
 				"url": "https://toot.rknight.me/2022/08/26/good-day-today.html"
 			},
