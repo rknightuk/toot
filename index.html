@@ -25,10 +25,12 @@
 	  <div class="h-entry">
 		
 
-		<a href="https://toot.rknight.me/2022/12/12/finished-planning-lots.html" class="u-url"><time class="dt-published" datetime="2022-12-12 22:40:51 &#43;0000">Dec 12, 2022</time></a>
+		<a href="https://toot.rknight.me/2022/12/17/this-challenge-from.html" class="u-url"><time class="dt-published" datetime="2022-12-17 23:28:16 &#43;0000">Dec 17, 2022</time></a>
 
 		<div class="e-content">
-			 <p>Finished planning lots of fun things to do when we’re in Edinburgh next week. Can’t wait for a few days of relaxing before Christmas.</p>
+			 <p><a href="https://social.lol/@prami/109530090151262300">This challenge</a> from <a href="https://micro.blog/prami@social.lol">@prami@social.lol</a> is driving me bananas. I <em>have</em> to be up early but I can&rsquo;t stop thinking about it. I have read a lot about cyphers and hashes but I&rsquo;m still no closer to solving it.</p>
+<p>Maybe AI can do it (this has been running like this for the past 20 minutes) 🤞</p>
+<!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -36,10 +38,346 @@
 	  <div class="h-entry">
 		
 
-		<a href="https://toot.rknight.me/2022/12/12/harry-potter-and.html" class="u-url"><time class="dt-published" datetime="2022-12-12 15:59:41 &#43;0000">Dec 12, 2022</time></a>
+		<a href="https://toot.rknight.me/2022/12/17/days-to-go.html" class="u-url"><time class="dt-published" datetime="2022-12-17 21:14:18 &#43;0000">Dec 17, 2022</time></a>
 
 		<div class="e-content">
-			 <p>Harry Potter and the Half-Blood Prince (2009) - ★★★</p>
+			 <p>100 days to go 😱</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/17/interrupted-them-fighting.html" class="u-url"><time class="dt-published" datetime="2022-12-17 12:53:52 &#43;0000">Dec 17, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Interrupted them fighting</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/17/first-day-of.html" class="u-url"><time class="dt-published" datetime="2022-12-17 09:53:55 &#43;0000">Dec 17, 2022</time></a>
+
+		<div class="e-content">
+			 <p>First day of Christmas holidays can only mean one thing: tip run 😐</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://toot.rknight.me/2022/12/16/chatcgt-and-mysql.html">ChatCGT and mySQL Database Schemas</a></h1>
+		
+
+		<a href="https://toot.rknight.me/2022/12/16/chatcgt-and-mysql.html" class="u-url"><time class="dt-published" datetime="2022-12-16 19:38:07 &#43;0000">Dec 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://chat.openai.com/chat">ChatCGT</a> is wild. I entered &ldquo;<em>Describe a mysql database schema for tracking the owned books of multiple people</em>&rdquo; and it came back with the queries to write the tables including foreign keys:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-mysql" data-lang="mysql"><span style="color:#66d9ef">CREATE</span> <span style="color:#66d9ef">TABLE</span> <span style="color:#a6e22e">people</span> (
+  id <span style="color:#66d9ef">INTEGER</span> <span style="color:#66d9ef">PRIMARY</span> <span style="color:#66d9ef">KEY</span>,
+  name <span style="color:#66d9ef">VARCHAR</span>(<span style="color:#ae81ff">255</span>) <span style="color:#66d9ef">NOT</span> <span style="color:#66d9ef">NULL</span>
+);
+
+<span style="color:#66d9ef">CREATE</span> <span style="color:#66d9ef">TABLE</span> <span style="color:#a6e22e">books</span> (
+  id <span style="color:#66d9ef">INTEGER</span> <span style="color:#66d9ef">PRIMARY</span> <span style="color:#66d9ef">KEY</span>,
+  title <span style="color:#66d9ef">VARCHAR</span>(<span style="color:#ae81ff">255</span>) <span style="color:#66d9ef">NOT</span> <span style="color:#66d9ef">NULL</span>,
+  author <span style="color:#66d9ef">VARCHAR</span>(<span style="color:#ae81ff">255</span>) <span style="color:#66d9ef">NOT</span> <span style="color:#66d9ef">NULL</span>,
+  <span style="color:#66d9ef">year</span> <span style="color:#66d9ef">INTEGER</span> <span style="color:#66d9ef">NOT</span> <span style="color:#66d9ef">NULL</span>
+);
+
+<span style="color:#66d9ef">CREATE</span> <span style="color:#66d9ef">TABLE</span> <span style="color:#a6e22e">owned_books</span> (
+  person_id <span style="color:#66d9ef">INTEGER</span> <span style="color:#66d9ef">NOT</span> <span style="color:#66d9ef">NULL</span>,
+  book_id <span style="color:#66d9ef">INTEGER</span> <span style="color:#66d9ef">NOT</span> <span style="color:#66d9ef">NULL</span>,
+  <span style="color:#66d9ef">PRIMARY</span> <span style="color:#66d9ef">KEY</span> (person_id, book_id),
+  <span style="color:#66d9ef">FOREIGN</span> <span style="color:#66d9ef">KEY</span> (person_id) <span style="color:#66d9ef">REFERENCES</span> <span style="color:#a6e22e">people</span>(id),
+  <span style="color:#66d9ef">FOREIGN</span> <span style="color:#66d9ef">KEY</span> (book_id) <span style="color:#66d9ef">REFERENCES</span> <span style="color:#a6e22e">books</span>(id)
+);
+</code></pre></div><p>I do things like this regularly so I <em>can</em> do this no problem but having a rough draft dumped in front of me within seconds is handy. It even gives examples of what queries you could run with the data, so I followed up with &ldquo;<em>What would the query for how many books each person owns look like?</em>&rdquo;</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-mysql" data-lang="mysql"><span style="color:#66d9ef">SELECT</span> p.name, <span style="color:#a6e22e">COUNT</span>(ob.book_id) <span style="color:#66d9ef">AS</span> num_books
+<span style="color:#66d9ef">FROM</span> people p
+<span style="color:#66d9ef">JOIN</span> owned_books ob <span style="color:#66d9ef">ON</span> p.id <span style="color:#f92672">=</span> ob.person_id
+<span style="color:#66d9ef">GROUP</span> <span style="color:#66d9ef">BY</span> p.id
+</code></pre></div><p>I&rsquo;m not convinced I&rsquo;m getting replaced <em>yet</em> but I&rsquo;m a tiny bit more worried than I was a few weeks ago.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/16/this-is-an.html" class="u-url"><time class="dt-published" datetime="2022-12-16 18:55:58 &#43;0000">Dec 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://front-end.social/@jensimmons/109521116041824824">This is an excellent post</a> on why news orgs should have their own Mastodon instances:</p>
+<blockquote>
+<p>Built in verification. Every reporter for the Washington Post on a washpo domain. Every reporter for the New York Times on an NYTimes  domain.</p>
+</blockquote>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/16/the-barbie-trailer.html" class="u-url"><time class="dt-published" datetime="2022-12-16 17:27:01 &#43;0000">Dec 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p>The <a href="https://www.youtube.com/watch?v=8zIf0XvoL9Y">Barbie trailer</a> is&hellip;something. What even is this movie.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/16/im-going-to.html" class="u-url"><time class="dt-published" datetime="2022-12-16 16:08:25 &#43;0000">Dec 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;m going to be cross-posting from my here to my Mastodon (<a href="https://social.lol/@robb">@robb@social.lol</a>) so you should definitely only follow me here OR there. I&rsquo;ll be active on both but the source of truth for posts will be here.</p>
+<p>Or follow on both, if that&rsquo;s what you&rsquo;re into (don&rsquo;t do that).</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/16/because-mastodon-is.html" class="u-url"><time class="dt-published" datetime="2022-12-16 15:01:03 &#43;0000">Dec 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Because Mastodon is different to M.b, I&rsquo;m thinking using of using Mastodon to follow Mastodon users and follow M.b users only here. The <em>way</em> people post is different on Mastodon; between hashtags and long threads (write a blog post dammit), I&rsquo;ve overwhelmed my feed here.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/16/those-of-you.html" class="u-url"><time class="dt-published" datetime="2022-12-16 14:36:14 &#43;0000">Dec 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Those of you cross-posting from here to Mastodon, do you post there directly as well? Do you follow different people on M.b and Mastodon?</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/16/in-preparation-for.html" class="u-url"><time class="dt-published" datetime="2022-12-16 13:54:59 &#43;0000">Dec 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p>In preparation for submitting my <a href="https://rknight.me/alfred-workflows">Alfred workflows</a> to the new <a href="https://alfred.app">Alfred Workflow gallery</a> I spent some time standarising my workflow icons because they&hellip;not good.</p>
+<p>I put <a href="https://github.com/rknightuk/alfred-workflow-icon-gen">together a script</a> to add any <a href="https://feathericons.com">Feather icon</a> onto one of a few backgrounds and I&rsquo;m pretty happy with the results.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/16/musk-is-now.html" class="u-url"><time class="dt-published" datetime="2022-12-16 08:38:29 &#43;0000">Dec 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Musk is now <a href="https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter">banning journalists</a> who are critical of him. Which seems very normal and not at all censorship he claims to care so much about.</p>
+<p>I&rsquo;ve deleted the app from my phone. Not to be The Annoying Sanctimonious Guy™ (to quote <a href="https://micro.blog/damon@mastodon.cc">@damon@mastodon.cc</a>) but you probably should too.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/16/the-macstories-team.html" class="u-url"><time class="dt-published" datetime="2022-12-16 08:31:50 &#43;0000">Dec 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p>The MacStories team have <a href="https://mastodon.macstories.net/public/local">setup their own Mastodon instance</a>.</p>
+<blockquote>
+<p>I&rsquo;m <em>thrilled</em> to finally take control of our social media presence, for the entire MacStories team</p>
+</blockquote>
+<p>We spoke about this <a href="https://ruminatepodcast.com/episodes/155">on Ruminate</a>; I&rsquo;m sure we&rsquo;ll start to see more of this from other websites soon.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/15/181300.html" class="u-url"><time class="dt-published" datetime="2022-12-15 18:13:00 &#43;0000">Dec 15, 2022</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://home.omg.lol/referred-by/robb">omg.lol</a> added referrals today <a href="https://advent.weblog.lol/day-15">on the advent calendar</a>.</p>
+<p>My link is <a href="https://advent.weblog.lol/day-15">https://home.omg.lol/referred-by/robb</a> if you wanna get in before the price rises ($5 for a year is stupid cheap).</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/15/the-sofa-is.html" class="u-url"><time class="dt-published" datetime="2022-12-15 09:28:13 &#43;0000">Dec 15, 2022</time></a>
+
+		<div class="e-content">
+			 <p>The sofa is in.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/15/the-new-version.html" class="u-url"><time class="dt-published" datetime="2022-12-15 09:20:52 &#43;0000">Dec 15, 2022</time></a>
+
+		<div class="e-content">
+			 <p>The new version of <a href="https://handmirror.app">Hand Mirror</a> by <a href="https://micro.blog/rafa@mastodon.design">@rafa@mastodon.design</a> is out and it has lot of cools things as outlined <a href="https://mastodon.design/@rafa/109516761571058063">in this thread</a>.</p>
+<p><a href="https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12">Mac App Store link</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/15/unfollowed-a-bunch.html" class="u-url"><time class="dt-published" datetime="2022-12-15 07:59:42 &#43;0000">Dec 15, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Unfollowed a bunch of people on Instagram and now my feed is just more ads. Urgh.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/15/viticci-on-twitter.html" class="u-url"><time class="dt-published" datetime="2022-12-15 07:00:58 &#43;0000">Dec 15, 2022</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://www.relay.fm/connected">Viticci on Twitter, Connected Pro 428</a>:</p>
+<blockquote>
+<p>I really don’t feel like I want to contribute anything, not even my links</p>
+</blockquote>
+<p>Couldn’t agree more.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/14/tomorrow-is-new.html" class="u-url"><time class="dt-published" datetime="2022-12-14 21:32:21 &#43;0000">Dec 14, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Tomorrow is new sofa day and they’re delivering any time from 6:30am. What.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/14/i-did-not.html" class="u-url"><time class="dt-published" datetime="2022-12-14 08:43:43 &#43;0000">Dec 14, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I did not see this coming, amazing. <a href="https://www.bloomberg.com/news/articles/2022-12-13/will-apple-allow-users-to-install-third-party-app-stores-sideload-in-europe">Bloomberg</a>:</p>
+<blockquote>
+<p>Apple Inc. is preparing to allow alternative app stores on its iPhones and iPads</p>
+</blockquote>
+<p>It&rsquo;s about time someone gave Apple a good kicking about the app store. Thanks EU.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/13/192700.html" class="u-url"><time class="dt-published" datetime="2022-12-13 19:27:00 &#43;0000">Dec 13, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Inspired by a bunch of people here adding &ldquo;now&rdquo; pages, I&rsquo;ve updated <a href="https://rknight.me">my main website</a> to include recent posts from M.b, photos, movies I&rsquo;ve watched, and <a href="https://toot.rknight.me/reading/">my reading list</a>.</p>
+<p>Of course I had to include the Claw Webring that <a href="https://micro.blog/whitep4nth3r@indieweb.social">@whitep4nth3r@indieweb.social</a> updated today as well.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/13/monzo-have-added.html" class="u-url"><time class="dt-published" datetime="2022-12-13 18:40:49 &#43;0000">Dec 13, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Monzo have added <a href="https://community.monzo.com/t/now-in-labs-see-your-mortgage-in-monzo/141674">the ability to see your mortage from another provider in the Monzo app</a>.</p>
+<p>This is cool but also I <em>do not</em> want to see my mortgage balance every day.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/13/two-new-microblog.html" class="u-url"><time class="dt-published" datetime="2022-12-13 18:24:37 &#43;0000">Dec 13, 2022</time></a>
+
+		<div class="e-content">
+			 <p>🎩 Two new Micro.blog × <a href="https://www.alfredapp.com">Alfred</a> workflows for y&rsquo;all:</p>
+<p><a href="https://github.com/rknightuk/alfred-workflows/tree/main/workflows/micromarks">MicroMarks</a>: A sort of companion to the <a href="https://micromarks.rknight.me">MicroMarks webapp</a> to access your bookmarks from Alfred (view, copy, delete)</p>
+<p><a href="https://github.com/rknightuk/alfred-workflows/tree/main/workflows/microposter">MicroPoster</a>: Post to Micro.blog with categories from Alfred (only works with single-word categories right now)</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/13/spiderman-across-the.html" class="u-url"><time class="dt-published" datetime="2022-12-13 17:13:55 &#43;0000">Dec 13, 2022</time></a>
+
+		<div class="e-content">
+			 <p>🔥 <a href="https://www.youtube.com/watch?v=cqGjhVJWtEg">Spider-Man: Across the Spider-Verse trailer</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/13/i-hadnt-heard.html" class="u-url"><time class="dt-published" datetime="2022-12-13 16:02:52 &#43;0000">Dec 13, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I hadn&rsquo;t heard of the Blacklist until <a href="https://micro.blog/martyday">@martyday</a>&rsquo;s <a href="https://www.blast-o-rama.com/2022/12/13/the-2022-black-list-has-been-revealed/">post</a>. Now I want &ldquo;Baby Boom&rdquo; to be made immediately:</p>
+<blockquote>
+<p>When her sister’s gender reveal party triggers the apocalypse, a woman and her husband have to prove to themselves, and the world, that they’re responsible enough to save it</p>
+</blockquote>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/13/its-christmas-which.html" class="u-url"><time class="dt-published" datetime="2022-12-13 14:44:05 &#43;0000">Dec 13, 2022</time></a>
+
+		<div class="e-content">
+			 <p>It&rsquo;s Christmas which can only mean one thing: sausage rolls (and cheese straws).</p>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://toot.rknight.me/2022/12/12/finished-planning-lots.html" class="u-url"><time class="dt-published" datetime="2022-12-12 22:40:51 &#43;0000">Dec 12, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Finished planning lots of fun things to do when we’re in Edinburgh next week. Can’t wait for a few days of relaxing before Christmas.</p>
 
 		</div>
 	  </div>
@@ -124,7 +462,8 @@
 		<a href="https://toot.rknight.me/2022/12/09/instagram-atom-feeds.html" class="u-url"><time class="dt-published" datetime="2022-12-09 09:15:57 &#43;0000">Dec 9, 2022</time></a>
 
 		<div class="e-content">
-			 <p><a href="https://instagram-atom.appspot.com/">Instagram Atom feeds</a></p>
+			 <p>Update 2022-12-15: This doesn&rsquo;t appear to work any more</p>
+<p><a href="https://instagram-atom.appspot.com/">Instagram Atom feeds</a></p>
 <p>I don&rsquo;t miss opening Instagram and seeing all sorts of nonsense adverts but I do miss a lot of my friends photos, this is a solid solution.</p>
 
 		</div>
