@@ -7,10 +7,195 @@
 	"items": [
 		
 			{
+				"id": "http://rknightuk.micro.blog/2022/12/22/sonic-the-hedgehog.html",
+				
+				"content_html": "<p>Sonic the Hedgehog 2 (2022) - ★★★</p>\n",
+				"content_text": "Sonic the Hedgehog 2 (2022) - ★★★\n\n\n",
+				"date_published": "2022-12-22T17:14:37+00:00",
+				"url": "https://toot.rknight.me/2022/12/22/sonic-the-hedgehog.html",
+				"tags": ["Movies"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/22/two-social-networks.html",
+				
+				"content_html": "<p><a href=\"https://rknight.me/two-social-networks-in-this-economy/\">Two Social Networks? In This Economy?</a></p>\n<p>Why am I using Micro.blog <em>and</em> Mastodon? 🤷‍♂️ I wrote down some thoughts anyway.</p>\n",
+				"content_text": "[Two Social Networks? In This Economy?](https://rknight.me/two-social-networks-in-this-economy/)\n\nWhy am I using Micro.blog _and_ Mastodon? 🤷‍♂️ I wrote down some thoughts anyway.\n",
+				"date_published": "2022-12-22T13:48:53+00:00",
+				"url": "https://toot.rknight.me/2022/12/22/two-social-networks.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/22/just-been-to.html",
+				
+				"content_html": "<p>Just been to Tesco. If anyone needs me I’ll be crying in the corner for a bit.</p>\n",
+				"content_text": "Just been to Tesco. If anyone needs me I’ll be crying in the corner for a bit. \n",
+				"date_published": "2022-12-22T12:43:17+00:00",
+				"url": "https://toot.rknight.me/2022/12/22/just-been-to.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/22/little-ornament-from.html",
+				
+				"content_html": "<p>Little ornament from Edinburgh 🐧🎄</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Little ornament from Edinburgh 🐧🎄\n\n<img src=\"uploads/2022/8d49917d86.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-22T09:19:43+00:00",
+				"url": "https://toot.rknight.me/2022/12/22/little-ornament-from.html",
+				"tags": ["Christmas"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/21/new-alfred-workflow.html",
+				
+				"content_html": "<p>💗 New Alfred workflow: <a href=\"https://github.com/rknightuk/alfred-workflows/tree/main/workflows/statuspost\">StatusPost for status.lol</a></p>\n<blockquote>\n<p>Quickly post a status to status.lol from Alfred</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
+				"content_text": "💗 New Alfred workflow: [StatusPost for status.lol](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/statuspost)\n\n> Quickly post a status to status.lol from Alfred\n\n<img src=\"uploads/2022/056996ff75.png\" width=\"600\" height=\"133\" alt=\"\">\n",
+				"date_published": "2022-12-21T22:00:15+00:00",
+				"url": "https://toot.rknight.me/2022/12/21/new-alfred-workflow.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/21/if-i-were.html",
+				
+				"content_html": "<p>If I were tasked with making airplane travel as annoying and frustrating as possible it would look exactly like every single airport already does.</p>\n",
+				"content_text": "If I were tasked with making airplane travel as annoying and frustrating as possible it would look exactly like every single airport already does. \n",
+				"date_published": "2022-12-21T17:55:16+00:00",
+				"url": "https://toot.rknight.me/2022/12/21/if-i-were.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/21/sleeve-is-out.html",
+				
+				"content_html": "<p><a href=\"https://replay.software/updates/whats-new-in-sleeve-2\">Sleeve 2</a> is out and it has hot keys 🙏 plus theming and a bunch of other good stuff. Can’t wait to try this out when I get home.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[Sleeve 2](https://replay.software/updates/whats-new-in-sleeve-2) is out and it has hot keys 🙏 plus theming and a bunch of other good stuff. Can’t wait to try this out when I get home. \n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/1aa23c6c7a.jpg\" width=\"600\" height=\"350\" alt=\"\">\n",
+				"date_published": "2022-12-21T15:06:33+00:00",
+				"url": "https://toot.rknight.me/2022/12/21/sleeve-is-out.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/21/edi-sou.html",
+				
+				"content_html": "<p>EDI 🛬 SOU</p>\n",
+				"content_text": "EDI 🛬 SOU\n",
+				"date_published": "2022-12-21T14:37:16+00:00",
+				"url": "https://toot.rknight.me/2022/12/21/edi-sou.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/21/a-good-breakfast.html",
+				
+				"content_html": "<p>A good breakfast is important 🍦</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A good breakfast is important 🍦 \n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/e1cd010848.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-21T13:00:17+00:00",
+				"url": "https://toot.rknight.me/2022/12/21/a-good-breakfast.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/21/120924.html",
+				
+				"content_html": "<p>☕️ 🍰</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "☕️ 🍰 \n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/54ceb04e15.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-21T12:09:24+00:00",
+				"url": "https://toot.rknight.me/2022/12/21/120924.html",
+				"tags": ["Food"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/20/british-airways-have.html",
+				
+				"content_html": "<p>British Airways have sent an email about our flight tomorrow only to me, the man named on the booking, instead of my partner, the woman who made, and paid, for the booking. How is this a thing that happens in 2022.</p>\n",
+				"content_text": "British Airways have sent an email about our flight tomorrow only to me, the man named on the booking, instead of my partner, the woman who made, and paid, for the booking. How is this a thing that happens in 2022. \n",
+				"date_published": "2022-12-20T22:45:44+00:00",
+				"url": "https://toot.rknight.me/2022/12/20/british-airways-have.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/20/finally-tried-these.html",
+				
+				"content_html": "<p>Finally tried these after <a href=\"https://micro.blog/johnvoorhees@macstories.net\">@johnvoorhees@macstories.net</a>  recommended them months ago.</p>\n<p>Fuego indeed 🔥</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finally tried these after [@johnvoorhees@macstories.net](https://micro.blog/johnvoorhees@macstories.net)  recommended them months ago. \n\nFuego indeed 🔥 \n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/e1c532e959.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-20T20:21:11+00:00",
+				"url": "https://toot.rknight.me/2022/12/20/finally-tried-these.html",
+				"tags": ["Food"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/20/edinburgh-day-more.html",
+				
+				"content_html": "<p>Edinburgh day 3 - more walking around</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Edinburgh day 3 - more walking around\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/81cb463c45.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/67441/2022/298f377f51.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-20T17:20:52+00:00",
+				"url": "https://toot.rknight.me/2022/12/20/edinburgh-day-more.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/19/edinburgh-day.html",
+				"title": "Edinburgh Day 2",
+				"content_html": "<p>Visited <a href=\"https://www.armchairbooks.co.uk\">Armchair Books</a> and <a href=\"https://rarebirdsbooks.com/pages/about-us\">Rare Birds Book Shop</a>:</p>\n<blockquote>\n<p>We&rsquo;ve made it our mission to champion female authors and help you discover brilliant books you&rsquo;d never have otherwise heard of. From literary heavyweights to breezy beach reads, we&rsquo;re here to help you make space on your bookshelf for women&rsquo;s writing across every genre.</p>\n</blockquote>\n<p>Saw the <a href=\"https://en.m.wikipedia.org/wiki/Greyfriars_Bobby\">Greyfriars Bobby statue</a> which is basically a real-life version of <a href=\"https://en.m.wikipedia.org/wiki/Jurassic_Bark\">Jurassic Bark</a>.</p>\n<p>Wandered around and looked at things, mostly the castle from different angles. The telephone box graffiti made me chuckle.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Visited [Armchair Books](https://www.armchairbooks.co.uk) and [Rare Birds Book Shop](https://rarebirdsbooks.com/pages/about-us):\n\n> We've made it our mission to champion female authors and help you discover brilliant books you'd never have otherwise heard of. From literary heavyweights to breezy beach reads, we're here to help you make space on your bookshelf for women's writing across every genre.\n\nSaw the [Greyfriars Bobby statue](https://en.m.wikipedia.org/wiki/Greyfriars_Bobby) which is basically a real-life version of [Jurassic Bark](https://en.m.wikipedia.org/wiki/Jurassic_Bark). \n\nWandered around and looked at things, mostly the castle from different angles. The telephone box graffiti made me chuckle. \n\n\n<img src=\"uploads/2022/50b743e781.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"uploads/2022/8699bafbba.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"uploads/2022/133323eba7.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"uploads/2022/b8a072f25c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-19T21:18:52+00:00",
+				"url": "https://toot.rknight.me/2022/12/19/edinburgh-day.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/19/edinburgh-might-not.html",
+				
+				"content_html": "<p>Edinburgh might not be the ideal city break for my 6-months pregnant partner.</p>\n<p>Lotta hills up in here.</p>\n",
+				"content_text": "Edinburgh might not be the ideal city break for my 6-months pregnant partner. \n\nLotta hills up in here. \n",
+				"date_published": "2022-12-19T14:42:52+00:00",
+				"url": "https://toot.rknight.me/2022/12/19/edinburgh-might-not.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/19/love-actually.html",
+				
+				"content_html": "<p>Love Actually (2003) - ★★★</p>\n<p>Watched on TV with adverts which was terrible. Also everyone in this movie is terrible and creepy and weird.</p>\n",
+				"content_text": "Love Actually (2003) - ★★★\n\nWatched on TV with adverts which was terrible. Also everyone in this movie is terrible and creepy and weird.\n\n\n\n",
+				"date_published": "2022-12-19T09:22:04+00:00",
+				"url": "https://toot.rknight.me/2022/12/19/love-actually.html",
+				"tags": ["Movies"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/18/day-in-edinburgh.html",
+				
+				"content_html": "<p>Day 1 in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿</p>\n<p><a href=\"https://www.camera-obscura.co.uk\">Camera Obscura</a>, the Christmas market, and an Avengers filming location.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Day 1 in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿 \n\n[Camera Obscura](https://www.camera-obscura.co.uk), the Christmas market, and an Avengers filming location. \n\n\n\n<img src=\"uploads/2022/94523943da.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/8d41662c28.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/63be517b9e.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/20d1772548.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/bb691fcc12.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/afb5f523fb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/8fe8004b1b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-18T20:38:48+00:00",
+				"url": "https://toot.rknight.me/2022/12/18/day-in-edinburgh.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/18/pay-attention-to.html",
+				
+				"content_html": "<p>“Pay attention to the safety briefing as this plane might be different to others you’ve flown on”</p>\n<p>“Doors and a slip and slide?”</p>\n<p>“Yeah”</p>\n<p>“So the same then”</p>\n",
+				"content_text": "“Pay attention to the safety briefing as this plane might be different to others you’ve flown on”\n\n“Doors and a slip and slide?”\n\n“Yeah”\n\n“So the same then”\n",
+				"date_published": "2022-12-18T13:32:25+00:00",
+				"url": "https://toot.rknight.me/2022/12/18/pay-attention-to.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/18/thinking-about-airport.html",
+				
+				"content_html": "<p>Thinking about <a href=\"https://youtu.be/jfOUVYQnuhw\">airport codes</a> now</p>\n",
+				"content_text": "Thinking about [airport codes](https://youtu.be/jfOUVYQnuhw) now\n",
+				"date_published": "2022-12-18T10:35:26+00:00",
+				"url": "https://toot.rknight.me/2022/12/18/thinking-about-airport.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/18/sou-edi.html",
+				
+				"content_html": "<p>SOU 🛫 EDI</p>\n",
+				"content_text": "SOU 🛫 EDI\n",
+				"date_published": "2022-12-18T10:22:14+00:00",
+				"url": "https://toot.rknight.me/2022/12/18/sou-edi.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/18/pramis-challenge.html",
+				"title": "Prami's Challenge",
+				"content_html": "<p><a href=\"https://social.lol/@prami/109530090151262300\">Prami posted a challenge on social.lol</a> to decode this string and win a lifetime subscription to <a href=\"https://home.omg.lol/referred-by/robb\">omg.lol</a>.</p>\n<blockquote>\n<p>The string below is an encoded lifetime omg.lol gift code:</p>\n<p>eoad1o1fpoawctnjeiri11dmj7rir6d8ehadkt4seo6u4</p>\n<p>[&hellip;]</p>\n<p>in this format: XXXX-XXXX-XXXX-XXXX</p>\n</blockquote>\n<p>I figured I&rsquo;d have a go which ended up being a good few hours. Then I <a href=\"https://toot.rknight.me/2022/12/17/this-challenge-from.html\">kind of lost my mind a bit</a>. Then went to bed having given up (and needing to be up for a flight this morning).</p>\n<p>Overnight, <a href=\"https://social.lol/@jmj\">Joanna</a> solved it and I felt like I&rsquo;d been presented with a sock, I was free. <a href=\"https://social.lol/@prami/109531877004198974\">The solution</a> was 3 schemes: <code>z-base-32</code> then <code>rot13</code> then <code>base64</code>. I googled <em>a lot</em> last night and not once did I see <a href=\"https://en.wikipedia.org/wiki/Base32#z-base-32\"><code>z-base-32</code></a> so I had no chance (although I <em>was</em> <a href=\"https://cryptii.com/pipes/z-base-32\">on a website that supports it</a> but clearly didn&rsquo;t see it).</p>\n<p>Other things I tried:</p>\n<ul>\n<li>Various different cypher detectors</li>\n<li>Asking <a href=\"https://chat.openai.com/chat\">ChatGPT</a> nicely</li>\n<li><a href=\"https://hashcat.net/hashcat/\">hashcat</a></li>\n<li><a href=\"https://github.com/Ciphey/Ciphey\">Ciphey</a> - this one crashed my computer trying to run overnight</li>\n</ul>\n",
+				"content_text": "[Prami posted a challenge on social.lol](https://social.lol/@prami/109530090151262300) to decode this string and win a lifetime subscription to [omg.lol](https://home.omg.lol/referred-by/robb). \r\n\r\n> The string below is an encoded lifetime omg.lol gift code:\r\n> \r\n> eoad1o1fpoawctnjeiri11dmj7rir6d8ehadkt4seo6u4\r\n>\r\n> [...]\r\n> \r\n> in this format: XXXX-XXXX-XXXX-XXXX\r\n\r\nI figured I'd have a go which ended up being a good few hours. Then I [kind of lost my mind a bit](https://toot.rknight.me/2022/12/17/this-challenge-from.html). Then went to bed having given up (and needing to be up for a flight this morning). \r\n\r\nOvernight, [Joanna](https://social.lol/@jmj) solved it and I felt like I'd been presented with a sock, I was free. [The solution](https://social.lol/@prami/109531877004198974) was 3 schemes: `z-base-32` then `rot13` then `base64`. I googled _a lot_ last night and not once did I see [`z-base-32`](https://en.wikipedia.org/wiki/Base32#z-base-32) so I had no chance (although I _was_ [on a website that supports it](https://cryptii.com/pipes/z-base-32) but clearly didn't see it).\r\n\r\nOther things I tried:\r\n\r\n- Various different cypher detectors\r\n- Asking [ChatGPT](https://chat.openai.com/chat) nicely\r\n- [hashcat](https://hashcat.net/hashcat/)\r\n- [Ciphey](https://github.com/Ciphey/Ciphey) - this one crashed my computer trying to run overnight\r\n",
+				"date_published": "2022-12-18T07:43:40+00:00",
+				"url": "https://toot.rknight.me/2022/12/18/pramis-challenge.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/17/234824.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/b51a684b07.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-17T23:48:24+00:00",
+				"url": "https://toot.rknight.me/2022/12/17/234824.html",
+				"tags": ["Development"]
+			},
+			{
 				"id": "http://rknightuk.micro.blog/2022/12/17/this-challenge-from.html",
 				
 				"content_html": "<p><a href=\"https://social.lol/@prami/109530090151262300\">This challenge</a> from <a href=\"https://micro.blog/prami@social.lol\">@prami@social.lol</a> is driving me bananas. I <em>have</em> to be up early but I can&rsquo;t stop thinking about it. I have read a lot about cyphers and hashes but I&rsquo;m still no closer to solving it.</p>\n<p>Maybe AI can do it (this has been running like this for the past 20 minutes) 🤞</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[This challenge](https://social.lol/@prami/109530090151262300) from [@prami@social.lol](https://micro.blog/prami@social.lol) is driving me bananas. I _have_ to be up early but I can't stop thinking about it. I have read a lot about cyphers and hashes but I'm still no closer to solving it.\r\n\r\nMaybe AI can do it (this has been running like this for the past 20 minutes) 🤞\r\n\n\n<img src=\"uploads/2022/9ad7eef0d0.png\" width=\"398\" height=\"176\" alt=\"\">\n",
+				"content_text": "[This challenge](https://social.lol/@prami/109530090151262300) from [@prami@social.lol](https://micro.blog/prami@social.lol) is driving me bananas. I _have_ to be up early but I can't stop thinking about it. I have read a lot about cyphers and hashes but I'm still no closer to solving it.\r\n\r\nMaybe AI can do it (this has been running like this for the past 20 minutes) 🤞\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/9ad7eef0d0.png\" width=\"398\" height=\"176\" alt=\"\">\n",
 				"date_published": "2022-12-17T23:28:16+00:00",
 				"url": "https://toot.rknight.me/2022/12/17/this-challenge-from.html",
 				"tags": ["Development"]
@@ -19,7 +204,7 @@
 				"id": "http://rknightuk.micro.blog/2022/12/17/days-to-go.html",
 				
 				"content_html": "<p>100 days to go 😱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "100 days to go 😱 \n\n<img src=\"uploads/2022/772c80b7df.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "100 days to go 😱 \n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/772c80b7df.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-17T21:14:18+00:00",
 				"url": "https://toot.rknight.me/2022/12/17/days-to-go.html",
 				"tags": ["Baby Knight"]
@@ -28,7 +213,7 @@
 				"id": "http://rknightuk.micro.blog/2022/12/17/interrupted-them-fighting.html",
 				
 				"content_html": "<p>Interrupted them fighting</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Interrupted them fighting \n\n<img src=\"uploads/2022/c5ef98ea4f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Interrupted them fighting \n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/c5ef98ea4f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-17T12:53:52+00:00",
 				"url": "https://toot.rknight.me/2022/12/17/interrupted-them-fighting.html",
 				"tags": ["Pets"]
@@ -94,7 +279,7 @@
 				"id": "http://rknightuk.micro.blog/2022/12/16/in-preparation-for.html",
 				
 				"content_html": "<p>In preparation for submitting my <a href=\"https://rknight.me/alfred-workflows\">Alfred workflows</a> to the new <a href=\"https://alfred.app\">Alfred Workflow gallery</a> I spent some time standarising my workflow icons because they&hellip;not good.</p>\n<p>I put <a href=\"https://github.com/rknightuk/alfred-workflow-icon-gen\">together a script</a> to add any <a href=\"https://feathericons.com\">Feather icon</a> onto one of a few backgrounds and I&rsquo;m pretty happy with the results.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In preparation for submitting my [Alfred workflows](https://rknight.me/alfred-workflows) to the new [Alfred Workflow gallery](https://alfred.app) I spent some time standarising my workflow icons because they...not good. \n\nI put [together a script](https://github.com/rknightuk/alfred-workflow-icon-gen) to add any [Feather icon](https://feathericons.com) onto one of a few backgrounds and I'm pretty happy with the results.\n\n<img src=\"uploads/2022/e2973079b1.png\" width=\"600\" height=\"146\" alt=\"\">\n",
+				"content_text": "In preparation for submitting my [Alfred workflows](https://rknight.me/alfred-workflows) to the new [Alfred Workflow gallery](https://alfred.app) I spent some time standarising my workflow icons because they...not good. \n\nI put [together a script](https://github.com/rknightuk/alfred-workflow-icon-gen) to add any [Feather icon](https://feathericons.com) onto one of a few backgrounds and I'm pretty happy with the results.\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/e2973079b1.png\" width=\"600\" height=\"146\" alt=\"\">\n",
 				"date_published": "2022-12-16T13:54:59+00:00",
 				"url": "https://toot.rknight.me/2022/12/16/in-preparation-for.html",
 				"tags": ["Development"]
@@ -176,7 +361,7 @@
 				"id": "http://rknightuk.micro.blog/2022/12/13/192700.html",
 				
 				"content_html": "<p>Inspired by a bunch of people here adding &ldquo;now&rdquo; pages, I&rsquo;ve updated <a href=\"https://rknight.me\">my main website</a> to include recent posts from M.b, photos, movies I&rsquo;ve watched, and <a href=\"https://toot.rknight.me/reading/\">my reading list</a>.</p>\n<p>Of course I had to include the Claw Webring that <a href=\"https://micro.blog/whitep4nth3r@indieweb.social\">@whitep4nth3r@indieweb.social</a> updated today as well.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Inspired by a bunch of people here adding \"now\" pages, I've updated [my main website](https://rknight.me) to include recent posts from M.b, photos, movies I've watched, and [my reading list](https://toot.rknight.me/reading/).\n\nOf course I had to include the Claw Webring that [@whitep4nth3r@indieweb.social](https://micro.blog/whitep4nth3r@indieweb.social) updated today as well.\n\n<img src=\"uploads/2022/b012485514.png\" width=\"600\" height=\"231\" alt=\"\">\n",
+				"content_text": "Inspired by a bunch of people here adding \"now\" pages, I've updated [my main website](https://rknight.me) to include recent posts from M.b, photos, movies I've watched, and [my reading list](https://toot.rknight.me/reading/).\n\nOf course I had to include the Claw Webring that [@whitep4nth3r@indieweb.social](https://micro.blog/whitep4nth3r@indieweb.social) updated today as well.\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/b012485514.png\" width=\"600\" height=\"231\" alt=\"\">\n",
 				"date_published": "2022-12-13T19:27:00+00:00",
 				"url": "https://toot.rknight.me/2022/12/13/192700.html",
 				"tags": ["Development"]
@@ -7863,7 +8048,7 @@
 				"content_text": "Finished Reading: Scott Pilgrim (Color Version). I've had these on the shelf for a couple of years meaning to get to them. I should have read them sooner.\n\n![](https://cdn.uploads.micro.blog/67441/2022/7680750a63.jpg)\n",
 				"date_published": "2020-04-13T21:37:41+00:00",
 				"url": "https://toot.rknight.me/2020/04/13/finished-reading-scott.html",
-				"tags": ["Books"]
+				"tags": ["Books","Comics"]
 			},
 			{
 				"id": "http://rknightuk.micro.blog/2020/04/13/time-to-read.html",
@@ -9730,7 +9915,7 @@
 				"content_text": "Finished Reading: All-New Hawkeye. The story is good but the art style is not to my liking.\n",
 				"date_published": "2019-06-23T13:49:58+00:00",
 				"url": "https://toot.rknight.me/2019/06/23/finished-reading-allnew.html",
-				"tags": ["Books"]
+				"tags": ["Books","Comics"]
 			},
 			{
 				"id": "http://rknightuk.micro.blog/2019/06/23/finished-reading-life.html",
@@ -11273,7 +11458,7 @@
 				"content_text": "Finished Reading: Hawkeye Omnibus. This really is as good as everyone says it is. But Kate is clearly the superior Hawkeye.\n\n![](https://cdn.uploads.micro.blog/67441/2022/c4ef666f8a.jpg)\n",
 				"date_published": "2018-10-14T15:02:34+00:00",
 				"url": "https://toot.rknight.me/2018/10/14/finished-reading-hawkeye.html",
-				"tags": ["Books"]
+				"tags": ["Books","Comics"]
 			},
 			{
 				"id": "http://rknightuk.micro.blog/2018/10/13/popstar-never-stop.html",
@@ -18616,7 +18801,8 @@
 				"content_html": "<p>Hawkeye</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Hawkeye\n\n<img src=\"https://rknightuk.micro.blog/uploads/2022/6f9e02e5b0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2014-09-01T13:05:25+00:00",
-				"url": "https://toot.rknight.me/2014/09/01/hawkeye.html"
+				"url": "https://toot.rknight.me/2014/09/01/hawkeye.html",
+				"tags": ["Comics"]
 			},
 			{
 				"id": "http://rknightuk.micro.blog/2014/09/01/hulk.html",
