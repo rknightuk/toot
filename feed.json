@@ -7,6 +7,179 @@
 	"items": [
 		
 			{
+				"id": "http://rknightuk.micro.blog/2023/01/12/set-up-my.html",
+				
+				"content_html": "<p>Set up my webfinger 👉 You can now find me on Mastodon by searching <a href=\"mailto:robb@rknight.me\">robb@rknight.me</a>.</p>\n<p>Who on earth decided to call it &ldquo;webfinger&rdquo; though.</p>\n",
+				"content_text": "Set up my webfinger 👉 You can now find me on Mastodon by searching robb@rknight.me.\r\n\r\nWho on earth decided to call it \"webfinger\" though.\n",
+				"date_published": "2023-01-12T14:11:58+00:00",
+				"url": "https://toot.rknight.me/2023/01/12/set-up-my.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/12/i-was-being.html",
+				
+				"content_html": "<p>I was being a grumpy git last night about Tailwind. If anyone has articles they like about the benefits/downsides to Tailwind I&rsquo;d be interested in seeing them.</p>\n",
+				"content_text": "I was being a grumpy git last night about Tailwind. If anyone has articles they like about the benefits/downsides to Tailwind I'd be interested in seeing them.\n",
+				"date_published": "2023-01-12T10:22:55+00:00",
+				"url": "https://toot.rknight.me/2023/01/12/i-was-being.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/11/i-would-in.html",
+				
+				"content_html": "<p>I would, in hindsight, amend my <a href=\"https://toot.rknight.me/2023/01/11/i-think-maybe.html\">original statement</a> to &ldquo;I don&rsquo;t completely hate Tailwind&rdquo;.</p>\n<p>It does what it claims to do but I&rsquo;m still not convinced it&rsquo;s a good solution for a lot of projects.</p>\n",
+				"content_text": "I would, in hindsight, amend my [original statement](https://toot.rknight.me/2023/01/11/i-think-maybe.html) to \"I don't completely hate Tailwind\".\r\n\r\nIt does what it claims to do but I'm still not convinced it's a good solution for a lot of projects.\n",
+				"date_published": "2023-01-11T21:49:45+00:00",
+				"url": "https://toot.rknight.me/2023/01/11/i-would-in.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/11/i-think-maybe.html",
+				
+				"content_html": "<p>I think maybe I like <a href=\"https://tailwindcss.com\">Tailwind</a> now. Not sure what to do with this information.</p>\n<p><a href=\"https://toot.rknight.me/2023/01/11/i-would-in.html\">Update</a></p>\n",
+				"content_text": "I think maybe I like [Tailwind](https://tailwindcss.com) now. Not sure what to do with this information.\n\n[Update](https://toot.rknight.me/2023/01/11/i-would-in.html)\n",
+				"date_published": "2023-01-11T20:27:01+00:00",
+				"url": "https://toot.rknight.me/2023/01/11/i-think-maybe.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/11/i-spoke-too.html",
+				
+				"content_html": "<p>I spoke too soon. It doesn&rsquo;t work <em>exactly</em> as I want so onwards with development.</p>\n",
+				"content_text": "I spoke too soon. It doesn't work _exactly_ as I want so onwards with development.\n",
+				"date_published": "2023-01-11T20:20:59+00:00",
+				"url": "https://toot.rknight.me/2023/01/11/i-spoke-too.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/11/love-to-start.html",
+				
+				"content_html": "<p>Love to start building an idea only to find someone has already solved it exactly like I want. On the one hand, it&rsquo;s annoying to waste the work I&rsquo;ve done. On the other, it means I don&rsquo;t have to build it now 🙌</p>\n",
+				"content_text": "Love to start building an idea only to find someone has already solved it exactly like I want. On the one hand, it's annoying to waste the work I've done. On the other, it means I don't have to build it now 🙌\n",
+				"date_published": "2023-01-11T18:34:20+00:00",
+				"url": "https://toot.rknight.me/2023/01/11/love-to-start.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/10/come-dine-with.html",
+				
+				"content_html": "<p>Come Dine with Me attracts a very specific type of nutcase</p>\n",
+				"content_text": "Come Dine with Me attracts a very specific type of nutcase \n",
+				"date_published": "2023-01-10T21:27:34+00:00",
+				"url": "https://toot.rknight.me/2023/01/10/come-dine-with.html",
+				"tags": ["TV"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/10/import-rss-to.html",
+				
+				"content_html": "<p>🔊 <a href=\"https://rknight.me/echo-rss-to-microblog/\">Import RSS to Micro.blog with Echo</a></p>\n<blockquote>\n<p>Echo is a node script to post new items from an RSS feed to Micro.blog</p>\n</blockquote>\n<p>I wanted more control over RSS feed import so I made this.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🔊 [Import RSS to Micro.blog with Echo](https://rknight.me/echo-rss-to-microblog/)\r\n\r\n> Echo is a node script to post new items from an RSS feed to Micro.blog\r\n\r\nI wanted more control over RSS feed import so I made this.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/67441/2023/db606315d8.png\" width=\"600\" height=\"283\" alt=\"Portion of a terminal window. It shows messages for fetching for status.lol and Letterboxd, then messages showing posts being created.\" />\n",
+				"date_published": "2023-01-10T18:31:10+00:00",
+				"url": "https://toot.rknight.me/2023/01/10/import-rss-to.html",
+				"tags": ["Microblog Tools","Development"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/10/testing-echo.html",
+				
+				"content_html": "<p>🔊 Testing Echo&hellip;</p>\n",
+				"content_text": "🔊 Testing Echo...\n",
+				"date_published": "2023-01-10T13:06:39+00:00",
+				"url": "https://toot.rknight.me/2023/01/10/testing-echo.html",
+				"tags": ["Statuses"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/10/zach-has-a.html",
+				
+				"content_html": "<p><a href=\"https://www.zachleat.com/web/icymi/2022/\">Zach has a great year in review post up</a>.</p>\n<p>All these year end posts are wonderful.</p>\n",
+				"content_text": "[Zach has a great year in review post up](https://www.zachleat.com/web/icymi/2022/).\r\n\r\nAll these year end posts are wonderful.\n",
+				"date_published": "2023-01-10T08:47:35+00:00",
+				"url": "https://toot.rknight.me/2023/01/10/zach-has-a.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/09/cake-pizza-come.html",
+				
+				"content_html": "<p>Cake, pizza, Come Dine with Me on the TV. A pretty good birthday all round 🎂</p>\n",
+				"content_text": "Cake, pizza, Come Dine with Me on the TV. A pretty good birthday all round 🎂 \n",
+				"date_published": "2023-01-09T22:52:12+00:00",
+				"url": "https://toot.rknight.me/2023/01/09/cake-pizza-come.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/09/sneak-peek-at.html",
+				
+				"content_html": "<p>Sneak peek at Echo 👀</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sneak peek at Echo 👀\n\n\n\n\n<img src=\"uploads/2023/db606315d8.png\" width=\"600\" height=\"283\" alt=\"Portion of a terminal window. It shows messages for fetching for status.lol and Letterboxd, then messages showing posts being created.\">\n",
+				"date_published": "2023-01-09T22:02:31+00:00",
+				"url": "https://toot.rknight.me/2023/01/09/sneak-peek-at.html",
+				"tags": ["Microblog Tools","Development"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/09/other-than-statuslol.html",
+				
+				"content_html": "<p>Other than status.lol and Letterboxd, what are some other feeds people tend to import into their Micro.blog? No reason at all, nothing to see here 👀</p>\n",
+				"content_text": "Other than status.lol and Letterboxd, what are some other feeds people tend to import into their Micro.blog? No reason at all, nothing to see here 👀\n",
+				"date_published": "2023-01-09T18:40:05+00:00",
+				"url": "https://toot.rknight.me/2023/01/09/other-than-statuslol.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/09/zoe-wrote-a.html",
+				
+				"content_html": "<p><a href=\"https://zoeaubert.me/blog/2022-a-year-in-review\">Zoe wrote a hefty 2022 review post which is very good</a></p>\n",
+				"content_text": "[Zoe wrote a hefty 2022 review post which is very good](https://zoeaubert.me/blog/2022-a-year-in-review)\n",
+				"date_published": "2023-01-09T10:30:32+00:00",
+				"url": "https://toot.rknight.me/2023/01/09/zoe-wrote-a.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/08/project-lantern-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🏮 Project Lantern is in progress...</p>\n",
+				"date_published": "2023-01-08T15:43:13+00:00",
+				"url": "https://toot.rknight.me/2023/01/08/project-lantern-is.html",
+				"tags": ["Statuses"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/07/just-had-a.html",
+				
+				"content_html": "<p>Just had a great meal at <a href=\"https://www.spoonworldbuffet.co.uk\">Spoon</a>. I think I ate my body weight in satay chicken and ribs.</p>\n",
+				"content_text": "Just had a great meal at [Spoon](https://www.spoonworldbuffet.co.uk). I think I ate my body weight in satay chicken and ribs. \n",
+				"date_published": "2023-01-07T18:46:04+00:00",
+				"url": "https://toot.rknight.me/2023/01/07/just-had-a.html",
+				"tags": ["Food"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/07/blogs-and-wikis.html",
+				
+				"content_html": "<p>🤯 <a href=\"https://rknight.me/blogs-and-wikis-and-links/\">Blogs and Wikis and Links</a>:</p>\n<blockquote>\n<p>A brain dump of thoughts of how to handle links, wikis, and websites</p>\n</blockquote>\n<p>I was dangerously close to doing a stupid thread of random posts but I wrote an actual blog post instead. Interested to hear some thoughts on this.</p>\n",
+				"content_text": "🤯 [Blogs and Wikis and Links](https://rknight.me/blogs-and-wikis-and-links/):\n\n> A brain dump of thoughts of how to handle links, wikis, and websites\n\nI was dangerously close to doing a stupid thread of random posts but I wrote an actual blog post instead. Interested to hear some thoughts on this.\n",
+				"date_published": "2023-01-07T15:14:20+00:00",
+				"url": "https://toot.rknight.me/2023/01/07/blogs-and-wikis.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/07/if-anyones-wondering.html",
+				
+				"content_html": "<p>If anyones wondering if you could build a bridge between Micro.blog and Mastodon to make M.b work in Mastodon apps: you can. But you shouldn&rsquo;t.</p>\n<p>Fun excerise for sure but&hellip;no.</p>\n",
+				"content_text": "If anyones wondering if you could build a bridge between Micro.blog and Mastodon to make M.b work in Mastodon apps: you can. But you shouldn't.\n\nFun excerise for sure but...no.\n",
+				"date_published": "2023-01-07T14:49:17+00:00",
+				"url": "https://toot.rknight.me/2023/01/07/if-anyones-wondering.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/07/it-occurs-to.html",
+				
+				"content_html": "<p>It occurs to me my wiki might be a bit more discoverable if I linked to it&hellip;somewhere. The previous post might be the first time I&rsquo;ve linked to it 🤦‍♂️</p>\n",
+				"content_text": "It occurs to me my wiki might be a bit more discoverable if I linked to it...somewhere. The previous post might be the first time I've linked to it 🤦‍♂️\n",
+				"date_published": "2023-01-07T14:39:48+00:00",
+				"url": "https://toot.rknight.me/2023/01/07/it-occurs-to.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/07/starting-to-think.html",
+				
+				"content_html": "<p>Starting to think some things I&rsquo;ve put into <a href=\"https://intersect.rknight.me/\">my wiki</a> might be better served as a blog post that I just update as and when I find things. The discoverability of pages is kinda crappy for anyone who isn&rsquo;t me (because I know to go there to look for things).</p>\n",
+				"content_text": "Starting to think some things I've put into [my wiki](https://intersect.rknight.me/) might be better served as a blog post that I just update as and when I find things. The discoverability of pages is kinda crappy for anyone who isn't me (because I know to go there to look for things).\n",
+				"date_published": "2023-01-07T14:30:05+00:00",
+				"url": "https://toot.rknight.me/2023/01/07/starting-to-think.html"
+			},
+			{
 				"id": "http://rknightuk.micro.blog/2023/01/07/a-selfdriving-stroller.html",
 				
 				"content_html": "<p>A <a href=\"https://www.macstories.net/news/ces-2023-odds-ends-and-weird-ces/\">self-driving stroller</a> seems like the worst idea to ever come out of CES. <a href=\"https://micro.blog/johnvoorhees@macstories.net\">@johnvoorhees@macstories.net</a> is very skilled at finding the horror at CES.</p>\n",
@@ -18,7 +191,7 @@
 				"id": "http://rknightuk.micro.blog/2023/01/07/happy-caturday-everyone.html",
 				
 				"content_html": "<p>Happy caturday everyone 🐱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy caturday everyone 🐱\n\n<img src=\"uploads/2023/13ddd2013e.jpg\" width=\"600\" height=\"450\" alt=\"A black and white cat lounging on a duvet\">\n",
+				"content_text": "Happy caturday everyone 🐱\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2023/13ddd2013e.jpg\" width=\"600\" height=\"450\" alt=\"A black and white cat lounging on a duvet\">\n",
 				"date_published": "2023-01-07T08:48:33+00:00",
 				"url": "https://toot.rknight.me/2023/01/07/happy-caturday-everyone.html",
 				"tags": ["Pets"]
@@ -27,7 +200,7 @@
 				"id": "http://rknightuk.micro.blog/2023/01/06/friday-night.html",
 				
 				"content_html": "<p>Friday night</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Friday night \n\n<img src=\"uploads/2023/a60f346dc3.jpg\" width=\"600\" height=\"450\" alt=\"A white and black cat sleeping on a blanket. \">\n",
+				"content_text": "Friday night \n\n<img src=\"https://cdn.uploads.micro.blog/67441/2023/a60f346dc3.jpg\" width=\"600\" height=\"450\" alt=\"A white and black cat sleeping on a blanket. \">\n",
 				"date_published": "2023-01-06T22:35:33+00:00",
 				"url": "https://toot.rknight.me/2023/01/06/friday-night.html",
 				"tags": ["Pets"]
@@ -40,6 +213,15 @@
 				"date_published": "2023-01-06T20:10:12+00:00",
 				"url": "https://toot.rknight.me/2023/01/06/watched-inside-the.html",
 				"tags": ["TV"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/06/pizza-day-at.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🍕 Pizza day at the office!</p>\n",
+				"date_published": "2023-01-06T13:29:38+00:00",
+				"url": "https://toot.rknight.me/2023/01/06/pizza-day-at.html",
+				"tags": ["Statuses"]
 			},
 			{
 				"id": "http://rknightuk.micro.blog/2023/01/06/omglol-is-on.html",
@@ -70,7 +252,7 @@
 				"id": "http://rknightuk.micro.blog/2023/01/05/hula-hoops-flavarings.html",
 				
 				"content_html": "<p><a href=\"https://www.tesco.com/groceries/en-GB/products/302554049\">Hula Hoops Flavarings Spicy</a></p>\n<ul>\n<li><strong>Texture</strong> ★★★★☆</li>\n<li><strong>Authenticity</strong> ★★★☆☆</li>\n<li><strong>Flavour</strong> ★★★★☆</li>\n</ul>\n<p>Not as spicy as I&rsquo;d like, a bit more crunch would be good. Still a good flavour though.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Hula Hoops Flavarings Spicy](https://www.tesco.com/groceries/en-GB/products/302554049)\n\n- **Texture** ★★★★☆\n- **Authenticity** ★★★☆☆\n- **Flavour** ★★★★☆\n\nNot as spicy as I'd like, a bit more crunch would be good. Still a good flavour though.\n\n\n\n<img src=\"uploads/2023/ac080b3dc1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Hula Hoops Flavarings Spicy](https://www.tesco.com/groceries/en-GB/products/302554049)\n\n- **Texture** ★★★★☆\n- **Authenticity** ★★★☆☆\n- **Flavour** ★★★★☆\n\nNot as spicy as I'd like, a bit more crunch would be good. Still a good flavour though.\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2023/ac080b3dc1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-05T12:30:00+00:00",
 				"url": "https://toot.rknight.me/2023/01/05/hula-hoops-flavarings.html",
 				"tags": ["Food","Crisp Reviews"]
@@ -83,6 +265,15 @@
 				"date_published": "2023-01-05T08:57:09+00:00",
 				"url": "https://toot.rknight.me/2023/01/05/ruminate-vr-feedbag.html",
 				"tags": ["Ruminate","Podcasts"]
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/04/weeks-isnot-long.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>👶 12 weeks is…not long.</p>\n",
+				"date_published": "2023-01-04T23:04:13+00:00",
+				"url": "https://toot.rknight.me/2023/01/04/weeks-isnot-long.html",
+				"tags": ["Statuses"]
 			},
 			{
 				"id": "http://rknightuk.micro.blog/2023/01/04/i-had-ice.html",
@@ -130,6 +321,15 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://rknightuk.micro.blog/2023/01/03/back-to-work.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😴 Back to work after 2 weeks off</p>\n",
+				"date_published": "2023-01-03T09:21:57+00:00",
+				"url": "https://toot.rknight.me/2023/01/03/back-to-work.html",
+				"tags": ["Statuses"]
+			},
+			{
 				"id": "http://rknightuk.micro.blog/2023/01/02/starting-to-think.html",
 				
 				"content_html": "<p>Starting to think rating movies I watch is kind of pointless.</p>\n",
@@ -163,6 +363,15 @@
 				"content_text": "Back on my BS. Added my latest status from status.lol to [my site](https://rknight.me) and found out I can style my status.lol page as well so of course I made it match.\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2023/90d4b968ab.png\" width=\"484\" height=\"189\" alt=\"A box on a website showing my latest status. It has a spider web emoji and the status says websites.\">\n",
 				"date_published": "2023-01-02T14:44:02+00:00",
 				"url": "https://toot.rknight.me/2023/01/02/back-on-my.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2023/01/02/websites-are-good.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🕸 websites are good</p>\n",
+				"date_published": "2023-01-02T14:26:12+00:00",
+				"url": "https://toot.rknight.me/2023/01/02/websites-are-good.html",
+				"tags": ["Statuses"]
 			},
 			{
 				"id": "http://rknightuk.micro.blog/2023/01/02/ntfysh-is-an.html",
@@ -901,6 +1110,15 @@
 				"content_text": "[omg.lol](https://home.omg.lol/referred-by/robb) added referrals today [on the advent calendar](https://advent.weblog.lol/day-15).\n\nMy link is [https://home.omg.lol/referred-by/robb](https://advent.weblog.lol/day-15) if you wanna get in before the price rises ($5 for a year is stupid cheap).\n",
 				"date_published": "2022-12-15T18:13:00+00:00",
 				"url": "https://toot.rknight.me/2022/12/15/181300.html"
+			},
+			{
+				"id": "http://rknightuk.micro.blog/2022/12/15/well.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🙃 Well.</p>\n",
+				"date_published": "2022-12-15T16:59:01+00:00",
+				"url": "https://toot.rknight.me/2022/12/15/well.html",
+				"tags": ["Statuses"]
 			},
 			{
 				"id": "http://rknightuk.micro.blog/2022/12/15/the-sofa-is.html",
@@ -1759,8 +1977,8 @@
 			{
 				"id": "http://rknightuk.micro.blog/2022/11/08/year-of-renovation.html",
 				"title": "Year of Renovation",
-				"content_html": "<p>We moved into our house November 3rd 2021, just over a year ago. Most of the house hadn&rsquo;t been decorated since it was built in the &rsquo;70s so everything needed redoing. With the exception of a few carpets and a bit of painting, everything is now done.</p>\n<h2 id=\"bathroom\">Bathroom</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<h2 id=\"main-bedroom\">Main Bedroom</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<h2 id=\"spare-room\">Spare Room</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<h2 id=\"office\">Office</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<h2 id=\"nursery\">Nursery</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<h2 id=\"kitchen\">Kitchen</h2>\n<p>This was the biggest project. We extended into the garage to make a kitchen/diner and add a utility room.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>Update: <a href=\"https://toot.rknight.me/2022/11/24/in-better-news.html\">Living Room</a></p>\n",
-				"content_text": "We moved into our house November 3rd 2021, just over a year ago. Most of the house hadn't been decorated since it was built in the '70s so everything needed redoing. With the exception of a few carpets and a bit of painting, everything is now done.\n\n## Bathroom\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/479c1060d6.jpg\">\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/579ab98afe.jpg\">\n\n## Main Bedroom\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/f34b84f430.jpg\">\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/52acf1be38.jpg\">\n\n## Spare Room\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/40551e85e4.jpg\">\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/a6ce6b2095.jpg\">\n\n## Office\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/6188eec281.jpg\">\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/a3fcbf6685.jpg\">\n\n## Nursery \n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/7aa3b4289d.jpg\">\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/24cbab52b6.jpg\">\n\n## Kitchen\n\nThis was the biggest project. We extended into the garage to make a kitchen/diner and add a utility room.\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/891c56d65a.jpg\">\n\n<img src=\"https://cdn.uploads.micro.blog/67441/2022/24e9efd049.jpg\">\n\nUpdate: [Living Room](https://toot.rknight.me/2022/11/24/in-better-news.html)\n",
+				"content_html": "<p><a href=\"https://rknight.me/year-of-renovation\">This post has been moved</a></p>\n<p>We moved into our house November 3rd 2021, just over a year ago. Most of the house hadn&rsquo;t been decorated since it was built in the &rsquo;70s so everything needed redoing. With the exception of a few carpets and a bit of painting, everything is now done.</p>\n<h2 id=\"bathroom\">Bathroom</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<h2 id=\"main-bedroom\">Main Bedroom</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<h2 id=\"spare-room\">Spare Room</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<h2 id=\"office\">Office</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<h2 id=\"nursery\">Nursery</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<h2 id=\"kitchen\">Kitchen</h2>\n<p>This was the biggest project. We extended into the garage to make a kitchen/diner and add a utility room.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>Update: <a href=\"https://toot.rknight.me/2022/11/24/in-better-news.html\">Living Room</a></p>\n",
+				"content_text": "[This post has been moved](https://rknight.me/year-of-renovation)\n\nWe moved into our house November 3rd 2021, just over a year ago. Most of the house hadn't been decorated since it was built in the '70s so everything needed redoing. With the exception of a few carpets and a bit of painting, everything is now done.\n\n## Bathroom\n\n<img src=\"uploads/2022/479c1060d6.jpg\">\n\n<img src=\"uploads/2022/579ab98afe.jpg\">\n\n## Main Bedroom\n\n<img src=\"uploads/2022/f34b84f430.jpg\">\n\n<img src=\"uploads/2022/52acf1be38.jpg\">\n\n## Spare Room\n\n<img src=\"uploads/2022/40551e85e4.jpg\">\n\n<img src=\"uploads/2022/a6ce6b2095.jpg\">\n\n## Office\n\n<img src=\"uploads/2022/6188eec281.jpg\">\n\n<img src=\"uploads/2022/a3fcbf6685.jpg\">\n\n## Nursery \n\n<img src=\"uploads/2022/7aa3b4289d.jpg\">\n\n<img src=\"uploads/2022/24cbab52b6.jpg\">\n\n## Kitchen\n\nThis was the biggest project. We extended into the garage to make a kitchen/diner and add a utility room.\n\n<img src=\"uploads/2022/891c56d65a.jpg\">\n\n<img src=\"uploads/2022/24e9efd049.jpg\">\n\nUpdate: [Living Room](https://toot.rknight.me/2022/11/24/in-better-news.html)\n",
 				"date_published": "2022-11-08T12:01:35+00:00",
 				"url": "https://toot.rknight.me/2022/11/08/year-of-renovation.html",
 				"tags": ["DIY"]
@@ -22978,8 +23196,8 @@
 			{
 				"id": "http://rknightuk.micro.blog/2010/04/08/review-camera-one.html",
 				"title": "Review: Camera One",
-				"content_html": "<p><strong>This article originally appeared on AppAdvice</strong></p>\n<p><img src=\"https://toot.rknight.me/uploads/2023/72589b0cb2.jpg\" alt=\"\"></p>\n<h2 id=\"overview\">Overview</h2>\n<p>When it comes to camera features, the iPhone&rsquo;s is severely lacking. No zoom, no timer, no effects. But there are loads of different apps that give you this functionality, but most only offer one or two extra features. Camera One offers them all. Self timer, tap to focus, zoom, grid view and voice shutter are just a few of Camera One&rsquo;s features. But would you be better off getting a couple of dedicated apps thinking about quality over quantity? Let&rsquo;s find out.</p>\n<p><img src=\"https://toot.rknight.me/uploads/2023/7147b58224.jpg\" alt=\"\"></p>\n<h2 id=\"features\">Features</h2>\n<ul>\n<li>Tap to focus (3GS only)</li>\n<li>Big shutter button</li>\n<li>4x Digital zoom</li>\n<li>Colour effects</li>\n<li>Self timer</li>\n<li>Anti shake</li>\n<li>Voice shutter</li>\n<li>Timestamping</li>\n<li>Grid view</li>\n<li>Save directly to camera roll</li>\n<li>Email photos</li>\n</ul>\n<p>The main screen of Camera One shows the shutter button, camera roll access button and a navigation bar across the top for turning different features on and off. As default digital zoom is turned on and this is shown with a slider bar above the shutter button. Zoom is just one of the features of Camera One and as the name &lsquo;ALL-IN-1&rsquo; suggests, Camera One has pretty much every feature you could ever want, so lets see what else is on offer. Each feature has its own icon on the top navigation bar, the first of which is the zoom. The next is the &lsquo;flash&rsquo; function. This is supposed to improve photos taken in low light but I really couldn&rsquo;t see any difference in the photos dispute what the screenshots on the app store show. There are two colour effects available which can be toggled from the paint tube icon; black and white, and sepia, although the effect isn&rsquo;t shown whilst taking the photo, only once it has been saved.</p>\n<p><img src=\"https://toot.rknight.me/uploads/2023/6651736a10.jpg\" alt=\"\"></p>\n<p>Self timer is something that many camera apps offer and Camera One is no different; you can choose a 2, 5 or 10 second delay before a photo is taken (although how anyone is managing to balance their iPhone to use self timer is beyond me). For those who find the iPhone&rsquo;s default camera button to be a bit small and difficult to use efficiently, the big button option in Camera One might help. Enabling this allows you to press anywhere on the screen to take a photo. Blur is the curse of any photo. With Camera One&rsquo;s anti-shake feature the likelihood of blurry photos is greatly reduced. With anti-shake turned on, a photo won&rsquo;t be taken until the camera is steady. This is indicated by coloured lines either side of the shutter button, which will disappear once the iPhone is perfectly still. Once of the best features about Camera One is the voice shutter. Enable this option, press the shutter button and a photo will be taken when the app registers a certain level of noise (say cheese!). Camera One also offers a grid view which shows an indicator of the centre of the photo for capturing subjects in perfect position. Other features include the ability to email photos, adding timestamps to photos, choosing the output size and tapping to focus on a specific area (3GS only).</p>\n<h2 id=\"the-breakdown\">The Breakdown</h2>\n<p><strong>The Good</strong></p>\n<p><img src=\"https://toot.rknight.me/uploads/2023/4baa8f1e81.jpg\" alt=\"\"></p>\n<p>&ldquo;You only need Camera One&rdquo; is the claim on the splash screen and this is definitely true. Camera One has every feature of every other camera app all rolled into one. Features can easily be toggled on and off and loading times are quick enough for this to be used as a replacement to the iPhone&rsquo;s standard camera app. Sharing photos is quick and easy with the built-in email function and you can also view photos at full resolution rather than scaled to fit the iPhone screen.</p>\n<p><strong>The Bad</strong></p>\n<p>Camera One offers the most features of any camera app but I find the interface lacks polish. Trying to work out which icons correspond to which feature can be difficult and but there is an explanation of each function in the help section of the settings. The other issue I have is with the &lsquo;flash&rsquo; function. In various different light conditions I couldn&rsquo;t see any improvement in the photos. This is disappointing seeing as the iPhone doesn&rsquo;t have a flash, and if this worked, it would be invaluable.</p>\n<h2 id=\"the-verdict\">The Verdict</h2>\n<p>If you feel, like most of us do, that the iPhone&rsquo;s camera app just doesn&rsquo;t cut it then you&rsquo;d be smart to spend your money on Camera One rather than loads of different single-function apps. Despite some of the issues I&rsquo;ve mentioned, Camera One offers everything you could need to take the perfect picture and for $0.99 this app is more than a bargain.</p>\n",
-				"content_text": "**This article originally appeared on AppAdvice**\n\n![](https://toot.rknight.me/uploads/2023/72589b0cb2.jpg)\n\n## Overview\n\nWhen it comes to camera features, the iPhone's is severely lacking. No zoom, no timer, no effects. But there are loads of different apps that give you this functionality, but most only offer one or two extra features. Camera One offers them all. Self timer, tap to focus, zoom, grid view and voice shutter are just a few of Camera One's features. But would you be better off getting a couple of dedicated apps thinking about quality over quantity? Let's find out. \n\n![](https://toot.rknight.me/uploads/2023/7147b58224.jpg)\n\n## Features\n\n\n- Tap to focus (3GS only) \n- Big shutter button \n- 4x Digital zoom \n- Colour effects \n- Self timer \n- Anti shake \n- Voice shutter \n- Timestamping \n- Grid view \n- Save directly to camera roll \n- Email photos \n\nThe main screen of Camera One shows the shutter button, camera roll access button and a navigation bar across the top for turning different features on and off. As default digital zoom is turned on and this is shown with a slider bar above the shutter button. Zoom is just one of the features of Camera One and as the name 'ALL-IN-1' suggests, Camera One has pretty much every feature you could ever want, so lets see what else is on offer. Each feature has its own icon on the top navigation bar, the first of which is the zoom. The next is the 'flash' function. This is supposed to improve photos taken in low light but I really couldn't see any difference in the photos dispute what the screenshots on the app store show. There are two colour effects available which can be toggled from the paint tube icon; black and white, and sepia, although the effect isn't shown whilst taking the photo, only once it has been saved. \n\n![](https://toot.rknight.me/uploads/2023/6651736a10.jpg)\n\nSelf timer is something that many camera apps offer and Camera One is no different; you can choose a 2, 5 or 10 second delay before a photo is taken (although how anyone is managing to balance their iPhone to use self timer is beyond me). For those who find the iPhone's default camera button to be a bit small and difficult to use efficiently, the big button option in Camera One might help. Enabling this allows you to press anywhere on the screen to take a photo. Blur is the curse of any photo. With Camera One's anti-shake feature the likelihood of blurry photos is greatly reduced. With anti-shake turned on, a photo won't be taken until the camera is steady. This is indicated by coloured lines either side of the shutter button, which will disappear once the iPhone is perfectly still. Once of the best features about Camera One is the voice shutter. Enable this option, press the shutter button and a photo will be taken when the app registers a certain level of noise (say cheese!). Camera One also offers a grid view which shows an indicator of the centre of the photo for capturing subjects in perfect position. Other features include the ability to email photos, adding timestamps to photos, choosing the output size and tapping to focus on a specific area (3GS only).\n\n## The Breakdown\n\n**The Good** \n\n![](https://toot.rknight.me/uploads/2023/4baa8f1e81.jpg) \n\n\"You only need Camera One\" is the claim on the splash screen and this is definitely true. Camera One has every feature of every other camera app all rolled into one. Features can easily be toggled on and off and loading times are quick enough for this to be used as a replacement to the iPhone's standard camera app. Sharing photos is quick and easy with the built-in email function and you can also view photos at full resolution rather than scaled to fit the iPhone screen. \n\n**The Bad**\n\nCamera One offers the most features of any camera app but I find the interface lacks polish. Trying to work out which icons correspond to which feature can be difficult and but there is an explanation of each function in the help section of the settings. The other issue I have is with the 'flash' function. In various different light conditions I couldn't see any improvement in the photos. This is disappointing seeing as the iPhone doesn't have a flash, and if this worked, it would be invaluable.\n\n## The Verdict\n\nIf you feel, like most of us do, that the iPhone's camera app just doesn't cut it then you'd be smart to spend your money on Camera One rather than loads of different single-function apps. Despite some of the issues I've mentioned, Camera One offers everything you could need to take the perfect picture and for $0.99 this app is more than a bargain.\n",
+				"content_html": "<p><strong>This article originally appeared on AppAdvice</strong></p>\n<p><img src=\"https://cdn.uploads.micro.blog/67441/2023/72589b0cb2.jpg\" alt=\"\"></p>\n<h2 id=\"overview\">Overview</h2>\n<p>When it comes to camera features, the iPhone&rsquo;s is severely lacking. No zoom, no timer, no effects. But there are loads of different apps that give you this functionality, but most only offer one or two extra features. Camera One offers them all. Self timer, tap to focus, zoom, grid view and voice shutter are just a few of Camera One&rsquo;s features. But would you be better off getting a couple of dedicated apps thinking about quality over quantity? Let&rsquo;s find out.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/67441/2023/7147b58224.jpg\" alt=\"\"></p>\n<h2 id=\"features\">Features</h2>\n<ul>\n<li>Tap to focus (3GS only)</li>\n<li>Big shutter button</li>\n<li>4x Digital zoom</li>\n<li>Colour effects</li>\n<li>Self timer</li>\n<li>Anti shake</li>\n<li>Voice shutter</li>\n<li>Timestamping</li>\n<li>Grid view</li>\n<li>Save directly to camera roll</li>\n<li>Email photos</li>\n</ul>\n<p>The main screen of Camera One shows the shutter button, camera roll access button and a navigation bar across the top for turning different features on and off. As default digital zoom is turned on and this is shown with a slider bar above the shutter button. Zoom is just one of the features of Camera One and as the name &lsquo;ALL-IN-1&rsquo; suggests, Camera One has pretty much every feature you could ever want, so lets see what else is on offer. Each feature has its own icon on the top navigation bar, the first of which is the zoom. The next is the &lsquo;flash&rsquo; function. This is supposed to improve photos taken in low light but I really couldn&rsquo;t see any difference in the photos dispute what the screenshots on the app store show. There are two colour effects available which can be toggled from the paint tube icon; black and white, and sepia, although the effect isn&rsquo;t shown whilst taking the photo, only once it has been saved.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/67441/2023/6651736a10.jpg\" alt=\"\"></p>\n<p>Self timer is something that many camera apps offer and Camera One is no different; you can choose a 2, 5 or 10 second delay before a photo is taken (although how anyone is managing to balance their iPhone to use self timer is beyond me). For those who find the iPhone&rsquo;s default camera button to be a bit small and difficult to use efficiently, the big button option in Camera One might help. Enabling this allows you to press anywhere on the screen to take a photo. Blur is the curse of any photo. With Camera One&rsquo;s anti-shake feature the likelihood of blurry photos is greatly reduced. With anti-shake turned on, a photo won&rsquo;t be taken until the camera is steady. This is indicated by coloured lines either side of the shutter button, which will disappear once the iPhone is perfectly still. Once of the best features about Camera One is the voice shutter. Enable this option, press the shutter button and a photo will be taken when the app registers a certain level of noise (say cheese!). Camera One also offers a grid view which shows an indicator of the centre of the photo for capturing subjects in perfect position. Other features include the ability to email photos, adding timestamps to photos, choosing the output size and tapping to focus on a specific area (3GS only).</p>\n<h2 id=\"the-breakdown\">The Breakdown</h2>\n<p><strong>The Good</strong></p>\n<p><img src=\"https://cdn.uploads.micro.blog/67441/2023/4baa8f1e81.jpg\" alt=\"\"></p>\n<p>&ldquo;You only need Camera One&rdquo; is the claim on the splash screen and this is definitely true. Camera One has every feature of every other camera app all rolled into one. Features can easily be toggled on and off and loading times are quick enough for this to be used as a replacement to the iPhone&rsquo;s standard camera app. Sharing photos is quick and easy with the built-in email function and you can also view photos at full resolution rather than scaled to fit the iPhone screen.</p>\n<p><strong>The Bad</strong></p>\n<p>Camera One offers the most features of any camera app but I find the interface lacks polish. Trying to work out which icons correspond to which feature can be difficult and but there is an explanation of each function in the help section of the settings. The other issue I have is with the &lsquo;flash&rsquo; function. In various different light conditions I couldn&rsquo;t see any improvement in the photos. This is disappointing seeing as the iPhone doesn&rsquo;t have a flash, and if this worked, it would be invaluable.</p>\n<h2 id=\"the-verdict\">The Verdict</h2>\n<p>If you feel, like most of us do, that the iPhone&rsquo;s camera app just doesn&rsquo;t cut it then you&rsquo;d be smart to spend your money on Camera One rather than loads of different single-function apps. Despite some of the issues I&rsquo;ve mentioned, Camera One offers everything you could need to take the perfect picture and for $0.99 this app is more than a bargain.</p>\n",
+				"content_text": "**This article originally appeared on AppAdvice**\n\n![](https://cdn.uploads.micro.blog/67441/2023/72589b0cb2.jpg)\n\n## Overview\n\nWhen it comes to camera features, the iPhone's is severely lacking. No zoom, no timer, no effects. But there are loads of different apps that give you this functionality, but most only offer one or two extra features. Camera One offers them all. Self timer, tap to focus, zoom, grid view and voice shutter are just a few of Camera One's features. But would you be better off getting a couple of dedicated apps thinking about quality over quantity? Let's find out. \n\n![](https://cdn.uploads.micro.blog/67441/2023/7147b58224.jpg)\n\n## Features\n\n\n- Tap to focus (3GS only) \n- Big shutter button \n- 4x Digital zoom \n- Colour effects \n- Self timer \n- Anti shake \n- Voice shutter \n- Timestamping \n- Grid view \n- Save directly to camera roll \n- Email photos \n\nThe main screen of Camera One shows the shutter button, camera roll access button and a navigation bar across the top for turning different features on and off. As default digital zoom is turned on and this is shown with a slider bar above the shutter button. Zoom is just one of the features of Camera One and as the name 'ALL-IN-1' suggests, Camera One has pretty much every feature you could ever want, so lets see what else is on offer. Each feature has its own icon on the top navigation bar, the first of which is the zoom. The next is the 'flash' function. This is supposed to improve photos taken in low light but I really couldn't see any difference in the photos dispute what the screenshots on the app store show. There are two colour effects available which can be toggled from the paint tube icon; black and white, and sepia, although the effect isn't shown whilst taking the photo, only once it has been saved. \n\n![](https://cdn.uploads.micro.blog/67441/2023/6651736a10.jpg)\n\nSelf timer is something that many camera apps offer and Camera One is no different; you can choose a 2, 5 or 10 second delay before a photo is taken (although how anyone is managing to balance their iPhone to use self timer is beyond me). For those who find the iPhone's default camera button to be a bit small and difficult to use efficiently, the big button option in Camera One might help. Enabling this allows you to press anywhere on the screen to take a photo. Blur is the curse of any photo. With Camera One's anti-shake feature the likelihood of blurry photos is greatly reduced. With anti-shake turned on, a photo won't be taken until the camera is steady. This is indicated by coloured lines either side of the shutter button, which will disappear once the iPhone is perfectly still. Once of the best features about Camera One is the voice shutter. Enable this option, press the shutter button and a photo will be taken when the app registers a certain level of noise (say cheese!). Camera One also offers a grid view which shows an indicator of the centre of the photo for capturing subjects in perfect position. Other features include the ability to email photos, adding timestamps to photos, choosing the output size and tapping to focus on a specific area (3GS only).\n\n## The Breakdown\n\n**The Good** \n\n![](https://cdn.uploads.micro.blog/67441/2023/4baa8f1e81.jpg) \n\n\"You only need Camera One\" is the claim on the splash screen and this is definitely true. Camera One has every feature of every other camera app all rolled into one. Features can easily be toggled on and off and loading times are quick enough for this to be used as a replacement to the iPhone's standard camera app. Sharing photos is quick and easy with the built-in email function and you can also view photos at full resolution rather than scaled to fit the iPhone screen. \n\n**The Bad**\n\nCamera One offers the most features of any camera app but I find the interface lacks polish. Trying to work out which icons correspond to which feature can be difficult and but there is an explanation of each function in the help section of the settings. The other issue I have is with the 'flash' function. In various different light conditions I couldn't see any improvement in the photos. This is disappointing seeing as the iPhone doesn't have a flash, and if this worked, it would be invaluable.\n\n## The Verdict\n\nIf you feel, like most of us do, that the iPhone's camera app just doesn't cut it then you'd be smart to spend your money on Camera One rather than loads of different single-function apps. Despite some of the issues I've mentioned, Camera One offers everything you could need to take the perfect picture and for $0.99 this app is more than a bargain.\n",
 				"date_published": "2010-04-08T00:00:00+00:00",
 				"url": "https://toot.rknight.me/2010/04/08/review-camera-one.html",
 				"tags": ["App Advice"]
